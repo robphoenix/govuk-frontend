@@ -180,6 +180,10 @@
 
 🔧 Fixes:
 
+- Fix HTML elements in tabs label breaking
+
+([PR #1351](https://github.com/alphagov/govuk-frontend/pull/1351))
+
 - Update accordion focus styles to remove firefox outlines
 
   ([PR #1324](https://github.com/alphagov/govuk-frontend/pull/1324))
